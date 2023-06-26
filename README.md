@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itisDouglas
-- 👀 I’m interested in creating full stack web applications with Django, and also software testing.
-- 🌱 I’m currently learning Software Testing practices that can help me grow in my current postion.
+- 👀 I’m interested in creating full-stack web applications with Django, and also software testing.
 - 📫 You can reach me via Twitter, LinkedIn, or here.
 
 <!---
